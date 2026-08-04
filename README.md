@@ -17,7 +17,7 @@
 - 🔭 **Currently Building**: Scalable fintech solutions and cross-platform applications
 - 🌱 **Learning Journey**: Advanced Flutter animations, Microservices with NestJS
 - 💡 **Passionate About**: Creating seamless user experiences across web and mobile
-- 🎯 **2025 Goals**: Contribute to 10+ open source projects, Master system design
+- 🎯 **2026 Goals**: Contribute to 10+ open source projects, Master system design
 - ⚡ **Fun Fact**: I debug with coffee and solve problems while walking!
 
 <br clear="right"/>

@@ -6,9 +6,9 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Flutter+Engineer;Banking+%26+Fintech+Apps+at+Scale;eKYC+%2F+Self-Onboarding+Flows;Next.js+%2B+TypeScript+on+the+web;Open+Source+Contributor" alt="Typing SVG" />
 
-![Users](https://img.shields.io/badge/Users_Served-1M%2B-00D9FF?style=for-the-badge)
+![Reach](https://img.shields.io/badge/Combined_Reach-1.1M%2B-00D9FF?style=for-the-badge)
 ![Apps](https://img.shields.io/badge/Banking_Apps_Shipped-5-00D9FF?style=for-the-badge)
-![Downloads](https://img.shields.io/badge/Combined_Downloads-10K%2B-00D9FF?style=for-the-badge)
+![Downloads](https://img.shields.io/badge/Combined_Downloads-20K%2B-00D9FF?style=for-the-badge)
 ![Rating](https://img.shields.io/badge/Store_Rating-4.3--4.8★-00D9FF?style=for-the-badge)
 
 </div>
@@ -108,10 +108,10 @@ Most of what I ship lives inside banking apps, which changes how you think about
 | App | Company | Role | Highlight |
 |---|---|---|---|
 | 📱 **[Bank Asia Zen](https://play.google.com/store/apps/details?id=eraapps.bankasia.bdinternetbanking.apps)** | Bank Asia PLC | Flutter Engineer, Rebuild Team | Ground-up rebuild · ~1M users · 4.3★ |
-| 📱 **[Standard Quick Account](https://play.google.com/store/apps/details?id=com.era.sbl.selfonboarding.sbl_self_onboarding)** | Standard Bank PLC | Solo build, end to end | eKYC self-onboarding, live |
-| 📱 **[IFIC PeopleHub](https://play.google.com/store/apps/details?id=com.ific.hrms.hrms_ific)** | IFIC Bank PLC | Flutter Engineer | ~6,000 employees · 4.3★ |
+| 📱 **[BCB e-Cash](https://play.google.com/store/apps/details?id=eraapps.bcbl.bdinternetbanking.apps)** | Bangladesh Commerce Bank | Flutter Engineer | eKYC + Bangla QR · 10K+ downloads · 4.4★ |
 | 🍎 **[FSIB Yellow Pages](https://apps.apple.com/us/app/fsib-yellow-pages/id1497450749)** | First Security Islami Bank PLC | Led the migration | 10K+ downloads · 4.8★ |
-| 📱 **BCB e-Cash** | Bangladesh Commerce Bank | Flutter Engineer | Self-onboarding eKYC with Bangla QR |
+| 📱 **[IFIC PeopleHub](https://play.google.com/store/apps/details?id=com.ific.hrms.hrms_ific)** | IFIC Bank PLC | Flutter Engineer | ~6,000 employees · 4.3★ |
+| 📱 **[Standard Quick Account](https://play.google.com/store/apps/details?id=com.era.sbl.selfonboarding.sbl_self_onboarding)** | Standard Bank PLC | Solo build, end to end | eKYC self-onboarding, live |
 
 </div>
 
